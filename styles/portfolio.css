@@ -146,8 +146,24 @@ main section {
     margin-top: 50px;
 }
 /* footer style */
+.contract,input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: var(--dark-03, #757575);
+    border-radius: 10px;
+    border: 0px;
+    width: 100%;
+}
+#aa{
+    border-radius: 50px;
+}
 footer{
     display: flex;
-    background: #FFF8F3;
+    background: #f2c7aa;
     padding: 150px 200px;
+    gap: 100px;
+}
+.footer-colum{
+    width: 50%;
 }
