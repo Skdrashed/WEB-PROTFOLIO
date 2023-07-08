@@ -129,6 +129,10 @@ main section {
 }
 
 /* resume colum style */
+.aass{
+    display: flex;
+    margin: 25px;
+}
 .resume-colum-title {
     color: var(--dark-02, #474747);
     font-family: Open Sans;
@@ -136,4 +140,8 @@ main section {
     font-style: normal;
     font-weight: 700;
     line-height: normal;
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
 }
