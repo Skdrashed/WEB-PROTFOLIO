@@ -97,10 +97,14 @@ background: #FFF8F3;
 }
 
 .section-title {
-    color: var #181818;
+    color: var #a38383;
     text-align: center;
     font-size: 35px;
     font-style: normal;
     font-weight: 700;
     
+}
+/* what i do section style */
+#what-i-do{
+    padding: 30px 150px;
 }
