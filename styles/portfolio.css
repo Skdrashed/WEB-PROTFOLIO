@@ -72,6 +72,11 @@ nav a {
 }
 
 /* main section style */
+main{
+    max-width: 1140px;
+    margin: auto;
+    background-color: #b36161;
+}
 
 /* about section style */
 .about{
