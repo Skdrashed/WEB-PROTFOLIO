@@ -77,6 +77,15 @@ main{
     margin: auto;
     background-color: #b36161;
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.about-info{
+    text-align: center;
+}
+
 
 /* about section style */
 .about{
